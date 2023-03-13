@@ -2,7 +2,7 @@
 
 # A HTML based webpage related to pasta recipe :ramen:
 
-## Concepts applied (but not limited too)
+## Concepts applied (*but not limited too*)
 
 - ### relative path for images
 - ### unordered list
